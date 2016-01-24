@@ -1,3 +1,3 @@
 # hello-world
 testifile
-Hi, I want to create financial advisor service where all the work is done by customers assisted by my glorious web service.
+Hi, I will create digitally assisted financial advisor and investment management service, where also customers with financial net worth of less than EUR 100k can get professional-type financial planning, low fees & first-class global investment portfolios  
